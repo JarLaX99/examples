@@ -1,0 +1,15 @@
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\bin\Debug\net7.0\exampel003_sam.exe
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\bin\Debug\net7.0\exampel003_sam.deps.json
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\bin\Debug\net7.0\exampel003_sam.runtimeconfig.json
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\bin\Debug\net7.0\exampel003_sam.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\bin\Debug\net7.0\exampel003_sam.pdb
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.csproj.AssemblyReference.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.AssemblyInfoInputs.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.AssemblyInfo.cs
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.csproj.CoreCompileInputs.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\refint\exampel003_sam.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.pdb
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\exampel003_sam.genruntimeconfig.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel003_sam\obj\Debug\net7.0\ref\exampel003_sam.dll
