@@ -1,0 +1,15 @@
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\bin\Debug\net7.0\exmpel005_ifellse.exe
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\bin\Debug\net7.0\exmpel005_ifellse.deps.json
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\bin\Debug\net7.0\exmpel005_ifellse.runtimeconfig.json
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\bin\Debug\net7.0\exmpel005_ifellse.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\bin\Debug\net7.0\exmpel005_ifellse.pdb
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.csproj.AssemblyReference.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.AssemblyInfoInputs.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.AssemblyInfo.cs
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.csproj.CoreCompileInputs.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\refint\exmpel005_ifellse.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.pdb
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\exmpel005_ifellse.genruntimeconfig.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exmpel005_ifellse\obj\Debug\net7.0\ref\exmpel005_ifellse.dll
