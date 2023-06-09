@@ -1,0 +1,15 @@
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\bin\Debug\net7.0\exampel004_dif.exe
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\bin\Debug\net7.0\exampel004_dif.deps.json
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\bin\Debug\net7.0\exampel004_dif.runtimeconfig.json
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\bin\Debug\net7.0\exampel004_dif.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\bin\Debug\net7.0\exampel004_dif.pdb
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.csproj.AssemblyReference.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.AssemblyInfoInputs.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.AssemblyInfo.cs
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.csproj.CoreCompileInputs.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\refint\exampel004_dif.dll
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.pdb
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\exampel004_dif.genruntimeconfig.cache
+C:\Users\sosko\Desktop\examples\exampel001_HelloConsole\exampel004_dif\obj\Debug\net7.0\ref\exampel004_dif.dll
